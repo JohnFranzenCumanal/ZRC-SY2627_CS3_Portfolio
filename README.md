@@ -8,3 +8,5 @@
 [Link to TheRPGHeroClassDiagram](./q1/TheRPGHeroClassDiagram.png)
 
 [Link to mappingPotassiumLUCERO.py](./q1/mappingPotassiumLUCERO.py)
+
+[Link to mappingPotassiumLUCERO.drawio.png](./q1/mappingPotassiumLUCERO.drawio.png)
