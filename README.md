@@ -10,3 +10,5 @@
 [Link to mappingPotassiumLUCERO.py](./q1/mappingPotassiumLUCERO.py)
 
 [Link to mappingPotassiumLUCERO.drawio.png](./q1/mappingPotassiumLUCERO.drawio.png)
+
+[Link to main.py](./q1/Sa-1/main.py)
