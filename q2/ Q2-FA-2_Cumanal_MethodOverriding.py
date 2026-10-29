@@ -4,18 +4,24 @@ class Patient:
         self.__bill_amount = bill_amount
 
         def get_name(self):
-            pass
+            return self.__name
 
         def set_name(self, name):
-            pass
+            self.__name = name
 
         def get_bill_amount(self):
-            pass
+            return self.__bill_amount
 
         def set_bill_amount(self, bill_amount):
-            pass
+            self.__bill_amount = bill_amount
   
         def calculate_bill(self):
-            pass
+            bill = self.__bill_amount * 1
+            return bill
 
-class SEniorPatient(Patient):
+class Senior_Patient(Patient):
+    def calculate_bill(self):
+        return get_bill_ammount() * 0.8
+
+class PhilHealth_Patient(Patient):
+    pass
